@@ -1,0 +1,7 @@
+.sel{
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/dumbbells-gym-64a3f4bc2fe31.jpg");
+    background-size: cover;
+    height: 730px;
+    display: flex;
+    margin-top: -5;
+}

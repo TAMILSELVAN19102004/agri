@@ -1,0 +1,75 @@
+.color {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: orangered;
+    
+}
+h1{
+    padding-left: 50px;
+    padding-top: -5px;
+}
+
+nav {
+    background-color: #333;
+    padding: 2rem;
+    width: 1400px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 2em;
+    margin: 0 0.5em;
+}
+
+section {
+    padding: 2em;
+}
+
+.hero {
+    background-image: url("https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?cs=srgb&dl=pexels-anush-gorak-1229356.jpg&fm=jpg");
+    background-size: cover;
+    background-position: center;
+    color: orangered;
+    text-align: center;
+    padding: 25rem ;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 1%;
+    width: 7%;
+    height: 0%;
+    
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #fff;
+    background-color: black; 
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #d00; 
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+footer p {
+    color: #fff;
+    text-align: center;
+}

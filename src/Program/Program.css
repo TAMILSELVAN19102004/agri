@@ -1,0 +1,31 @@
+.video-container {
+    padding-left: 65px;
+    background-color: black;
+  }
+  
+  .video {
+    padding: 65px;
+  }
+  
+  .header {
+    background-color: black;
+    color: orangered;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+  }
+  
+  .header h1 {
+    position: relative;
+  }
+  
+  .video-row {
+    border-bottom: 18px solid orangered;
+  }
+  
+  
+  .video-row:last-child {
+    border-bottom: none;
+  }
+  
+  

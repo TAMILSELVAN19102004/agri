@@ -1,0 +1,68 @@
+.container {
+    margin-top: 80px;
+    margin-left:550px ;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-width: 350px; 
+    background-color: #ccc;
+  }
+  
+  .lo {
+     padding-left: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .llogin {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+.G1 {
+    width: 80%;
+    padding: 10px;
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .loginbutton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px; 
+    margin-left: 30px;
+  }
+  
+  .loginbutton:hover {
+    background-color: #3e8e41;
+  }
+  
+  .sin{
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  .sin:hover {
+    text-decoration: underline;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .a1{
+    background-image: url(https://images2.alphacoders.com/692/thumb-1920-692040.jpg);
+    background-size: cover;
+    margin-top: -25px; 
+    height: 745px;
+  }

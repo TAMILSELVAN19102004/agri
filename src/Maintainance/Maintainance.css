@@ -1,0 +1,50 @@
+.fullpage-container {
+  background-image: url("https://www.healthifyme.com/blog/wp-content/uploads/2019/11/calories-counting-cover-2-1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerin {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.form-container {
+  max-width: 400px;
+  width: 100%;
+}
+
+.input-container {
+  margin-bottom: 20px;
+  border-radius: 26px;
+
+}
+
+input {
+  padding: 8px;
+  width: calc(100% - 16px);
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}

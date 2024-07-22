@@ -1,0 +1,66 @@
+.A1{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    background-size: cover;
+    background-image: url("https://wallpapercave.com/wp/wp2483039.jpg");
+  }
+  .A2{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .A3{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .A4{
+    margin-bottom: 15px;
+  }
+  .A5{
+    display: block;
+      margin-bottom: 5px;
+  }
+  .A6 {
+    width: 80%;
+    padding: 10px;
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .A7{
+    margin-left: 30px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .A10{
+  
+    background-color: #3e8e41;
+  }
+  .A8{
+    color: #4CAF50;
+      text-decoration: none;
+      text-decoration: underline;
+  }
+  .A9{
+    color: red;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .A11{
+    
+    background-size: cover;
+  }
